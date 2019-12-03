@@ -1,5 +1,5 @@
 ---
-title: Link preview in Safari
+title: "Link preview in Safari"
 date: 2019-12-03
 ---
 
