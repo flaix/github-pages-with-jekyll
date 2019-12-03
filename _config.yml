@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   useful enough to remember - electronically.
 
 # social links
-twitter_username: @flaix
+twitter_username: flaix
 github_username:  fzs
 
 show_excerpts: true # set to false to remove excerpts on the homepage
